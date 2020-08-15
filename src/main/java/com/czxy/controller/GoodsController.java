@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import javax.annotation.Resource;
 
 /**
- * Created by Administrator on 2020/8/14.
+ * Created by Administrator on 2020/8/14.123213
  */
 @Controller
 @RequestMapping("/goods")
